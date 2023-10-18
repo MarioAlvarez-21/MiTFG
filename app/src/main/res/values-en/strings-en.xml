@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KiSuperCars</string>
+    <!--Textos de la aplicacion-->
+    <string name="potencia">Power</string>
+    <string name="motor">Engine</string>
+    <string name="velocidad">Speed</string>
+    <string name="tiempos">Time</string>
+    <string name="año">Year</string>
+    <string name="parmotor">N.m</string>
+    <string name="descripcion">Description</string>
+    <string name="seleccionar">Select</string>
+    <string name="marca">Brand</string>
+    <string name="modelo">Model</string>
+    <string name="email">E-mail</string>
+    <string name="contraseña">Password</string>
+    <string name="repetir_contraseña">Repeat password</string>
+    <string name="iniciar">Start</string>
+    <string name="registrarse">Check in</string>
+    <string name="o">Or</string>
+    <string name="usuario">User</string>
+    <string name="telefono">Phone</string>
+    <string name="cancelar">Cancel</string>
+    <string name="confirmar">Confirm</string>
+    <string name="volver">Return</string>
+    <string name="cerrar_sesion">Logout</string>
+    <string name="frase_cerrar_sesion">Are you sure you want to sign out?</string>
+    <string name="sí">Yes</string>
+    <string name="no">No</string>
+    <string name="confirmar_cambios">confirm changes</string>
+    <string name="frase_confirmar_cambios">Do you want to change your current data for these?</string>
+</resources>

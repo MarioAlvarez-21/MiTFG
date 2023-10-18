@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tx_potencia" type="id" />
+    <item name="iv_velocidad" type="id" />
+    <item name="tx_velocidad" type="id" />
+    <item name="iv_motor" type="id" />
+    <item name="tx_motor" type="id" />
+    <item name="textViewDato1" type="id" />
+    <item name="textViewDato2" type="id" />
+    <item name="textViewDato3" type="id" />
+</resources>

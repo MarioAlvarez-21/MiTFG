@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "873809105784",
+    "firebase_url": "https://kisupercars-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "kisupercars",
+    "storage_bucket": "kisupercars.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873809105784:android:d8078c266e1b3a17e8ee8d",
+        "android_client_info": {
+          "package_name": "com.example.kisupercars"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873809105784-pc4j45ua5hv9pjmbp1agu6m5iei1sp2n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kisupercars",
+            "certificate_hash": "22d2af88806bcfa3bcaa5e2033b0fe4f1e00594c"
+          }
+        },
+        {
+          "client_id": "873809105784-jciohd7pee09l5d17495bueo9d0pgeth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8fN1ncw1HLjGENABDaQJQuf7vYAUMWnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873809105784-6c7a3j1p1es332f3638qa6f55rvnmq55.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">KiSuperCars</string>
+    <!--Textos de la aplicacion-->
+    <string name="potencia">Potencia</string>
+    <string name="motor">Motor</string>
+    <string name="velocidad">Velocidad</string>
+    <string name="tiempos">Tiempos</string>
+    <string name="año">Año</string>
+    <string name="parmotor">N.m</string>
+    <string name="descripcion">Descripción</string>
+    <string name="seleccionar">Seleccionar</string>
+    <string name="marca">Marca</string>
+    <string name="modelo">Modelo</string>
+    <string name="email">Email</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="repetir_contraseña">Repetir contraseña</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="o">O</string>
+    <string name="usuario">Usuario</string>
+    <string name="telefono">Teléfono</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="volver">Volver</string>
+    <string name="cerrar_sesion">Cerrar sesión</string>
+    <string name="frase_cerrar_sesion">¿Estás seguro de que deseas cerrar sesión?</string>
+    <string name="sí">Sí</string>
+    <string name="no">No</string>
+    <string name="confirmar_cambios">Confirmar cambios</string>
+    <string name="frase_confirmar_cambios">¿Quieres cambiar tus datos actuales por estos?</string>
+</resources>
